@@ -12,3 +12,8 @@ config_version=5
 
 config/name="QuickAudio"
 config/features=PackedStringArray("4.2", "Forward Plus")
+config/plugin_name=""
+
+[editor]
+
+version_control/plugin_name="QuickAudio"

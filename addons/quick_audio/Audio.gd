@@ -1,5 +1,6 @@
 # Full video: https://www.youtube.com/watch?v=OEpfdmW6_s0
 # (c) Bryce Dixon, distributed under MIT License: https://github.com/BtheDestroyer/Godot_QuickAudio
+@icon("./icon.svg")
 extends Node
 
 @onready var tree := get_tree() # Gets the slightest of performance improvements by caching the SceneTree
