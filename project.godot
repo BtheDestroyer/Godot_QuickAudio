@@ -14,6 +14,14 @@ config/name="QuickAudio"
 config/features=PackedStringArray("4.2", "Forward Plus")
 config/plugin_name=""
 
+[autoload]
+
+Audio="*res://addons/quick_audio/./Audio.gd"
+
 [editor]
 
 version_control/plugin_name="QuickAudio"
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/quick_audio/plugin.cfg")
