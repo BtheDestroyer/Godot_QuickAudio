@@ -1,7 +1,16 @@
 # Godot_QuickAudio
+
+![Icon](https://raw.githubusercontent.com/BtheDestroyer/Godot_QuickAudio/1.0/addons/quick_audio/icon.svg)
 Light-weight and easy-to-use interface for creating sound effects and music systems
 
 ## [Overview Video](https://www.youtube.com/watch?v=OEpfdmW6_s0)
+
+
+## Installation
+
+1. Download the code from this repository.
+1. Extract the downloaded archive to your project; resulting files should end up in `res://addons/quick_audio` (Files outside of that folder are not needed)
+1. Go to your Project Settings, select the 
 
 ## How to Use
 
