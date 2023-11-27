@@ -1,0 +1,1 @@
+../addons/QuickAudio/README.md
