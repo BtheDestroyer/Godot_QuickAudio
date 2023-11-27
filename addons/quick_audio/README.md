@@ -1,6 +1,5 @@
-# Godot_QuickAudio
+# ![Icon](https://raw.githubusercontent.com/BtheDestroyer/Godot_QuickAudio/1.0/addons/quick_audio/icon.svg) Godot_QuickAudio
 
-![Icon](https://raw.githubusercontent.com/BtheDestroyer/Godot_QuickAudio/1.0/addons/quick_audio/icon.svg)
 Light-weight and easy-to-use interface for creating sound effects and music systems
 
 ## [Overview Video](https://www.youtube.com/watch?v=OEpfdmW6_s0)
