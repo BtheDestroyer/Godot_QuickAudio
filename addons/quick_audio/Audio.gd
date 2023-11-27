@@ -1,6 +1,5 @@
-# Add this script to your project, then add it as an AutoLoad Singleton to access it anywhere
 # Full video: https://www.youtube.com/watch?v=OEpfdmW6_s0
-# (c) Bryce Dixon, distributed under MIT License: https://gist.github.com/BtheDestroyer/94b941f7e07e06c76ec825c50eafe1f0
+# (c) Bryce Dixon, distributed under MIT License: https://github.com/BtheDestroyer/Godot_QuickAudio
 extends Node
 
 @onready var tree := get_tree() # Gets the slightest of performance improvements by caching the SceneTree
