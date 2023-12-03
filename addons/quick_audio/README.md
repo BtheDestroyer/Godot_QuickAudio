@@ -7,6 +7,13 @@ Light-weight and easy-to-use interface for creating sound effects and music syst
 
 ## Installation
 
+### From Asset Library
+
+1. Search "QuickAudio" in the "Asset Library" tab (at the top next to 2D, 3D, and Script) of the Godot editor.
+1. Add the plugin to your project.
+
+### Manual Download
+
 1. Download the code from this repository.
 1. Extract the downloaded archive to your project; resulting files should end up in `res://addons/quick_audio` (Files outside of that folder are not needed)
 1. Go to your Project Settings, select the 
